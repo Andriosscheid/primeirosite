@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+
+.header-site{
+    background-image: url(copacabana.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+    padding-top: 55%;
+    
+
+}
+.content-site{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-site{
+    background-image: url(portogalinhas.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+    padding-top: 55%;
+ 
+
+}
+.footer-site{
+    background-color: #333333;
+    color:black;
+    padding-top: 350px;
+    padding-bottom: 350px;
+}
+.praia1{
+    background-image: url(copa.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 55%;
+
+}
+.praia2{
+    background-image: url(maragogi.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   padding-top: 55%;
+ 
+
+}
+.praia3{
+    background-image: url(catelhanos.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 55%;
+
+}
+body{
+    background-color: #f4f4f4 ;
+    font-family: sans-serif ;
+    color: #666;
+    font-size: 16px;
+    margin: 0px;
+    font-weight: 400px;
+    line-height: 1.8em;
+}
+
+.ftext{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: 'Baloo Bhaijaan 2';
+font-family: 'Corinthia';
+font-family: 'M PLUS 1 Code', sans-serif;
+}
+.ltext{
+    text-align: center;
+    color: #000;
+    font-size: 40px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    font-family: 'Baloo Bhaijaan 2';
+
+}
+.copawiki{
+    padding-left: 80%;
+    top: 50%;
+}
+
+
+
